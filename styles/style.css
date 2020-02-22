@@ -1,0 +1,35 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.outer-body-container {
+    border: 2px solid gray;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    padding: 10px;
+}
+
+.inner-body-container {
+    width: 100%;
+    height: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
